@@ -1,5 +1,10 @@
 # Decision Algorithm & GitHub Guide for Humanities
 
+## Abstract  
+This repo provides an open-source decision engine (7 criteria) for evaluating
+tech-ethics trade-offs, from inequality risk to legacy impact.
+Built for quick peer adaptation and policy pilots.
+
 ## /ThePosthumanIsHere
 ```bash
 $ python decision_algorithm.py
