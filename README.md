@@ -45,7 +45,7 @@ From Japan, I wish you success.
 GitHub Pages URLs look like this:
 - https://github.com/trgr-karasutoragara/daily-news-for-digital-dignity
 - https://github.com/trgr-karasutoragara/zen-info-your-life-is-yours
-- https://github.com/trgr-karasutoragara/trgr-karasutoragara.github.io
+- https://github.com/trgr-karasutoragara/Delay-by-PhiloStruct
 
 Since GitHub repositories become URLs, humanities researchers can differentiate themselves advantageously.
 
