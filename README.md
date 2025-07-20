@@ -1,5 +1,5 @@
-[![MIT](https://img.shields.io/github/license/trgr-karasutoragara/ThePosthumanIsHere)](https://github.com/trgr-karasutoragara/ThePosthumanIsHere)
-[![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/ThePosthumanIsHere?style=social)](https://github.com/trgr-karasutoragara/ThePosthumanIsHere/stargazers)
+![MIT](https://img.shields.io/github/license/trgr-karasutoragara/ThePosthumanIsHere)
+![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/ThePosthumanIsHere?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/trgr-karasutoragara/ThePosthumanIsHere)
 
 
