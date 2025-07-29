@@ -75,3 +75,25 @@ Since GitHub repositories become URLs, humanities researchers can differentiate 
 
 ### AI Hallucination Countermeasures
 Conducted approximately 11,680 hours of AI dialogue learning from April 2023 to March 2025. Within that scope, having different AIs verify each other's responses never resulted in simultaneous errors. Therefore, this method may be effective for hallucination countermeasures. MIT Licensed. Verification and extensions welcome. AI and ethics serve humanity's benefit.
+
+<br>
+
+## License
+
+MIT License
+
+<br>
+
+
+## Repository Policy
+
+- I develop prototypes with a focus on ethics.
+- There are no plans for maintenance or support.
+- The project is released under the MIT License, so feel free to modify it within the scope of the license.
+- Instead of providing support, I create new prototypes to solve emerging problems.
+
+<br>
+
+## Author Declaration
+
+I am an independent volunteer with no conflicts of interest.
